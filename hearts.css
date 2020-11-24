@@ -13,7 +13,7 @@ body {
     display: grid;
     place-items: center;
     text-align: center;
-    background-image: url("woman.jpg");
+    background-image: url("img/woman.jpg");
     background-size: cover;
 }
 
